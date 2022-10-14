@@ -1,0 +1,87 @@
+h1{
+    color: chartreuse;
+    
+    width: 600px; 
+}
+h2{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 700px;
+    height: 100px;
+}
+p{
+    color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+
+}
+#s1{
+    font-weight: bold;
+    font-size: 70px;
+    color: blue;
+}
+#s2{
+    color: crimson;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.friend{
+    color: darkslategray;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1.friend{
+    background-color: indianred;
+}
+#d{
+    font-size: xx-large;
+    font-style: italic;
+    
+}
+    
+img{
+    width: 50%;
+    height: 40%;
+}
+.ss{
+    font-size: xx-large;
+    color: gainsboro;
+    background-color: brown;
+}
+#sss{
+    font-size: 20px;
+    color: black;
+}
+.tour1{
+    background-color: black;
+    color: aliceblue;
+}
+.tour2{
+    background-color: blue;
+
+}
+h3{
+    font-size: 60px;
+}
+.h4{
+    border: 5px solid coral;
+    border-radius: 5px;
+    margin: 10px 5px 7px 80px;
+    font-size: 40px;
+    padding: 10px;
+    width: 600px;
+    height: 150px;
+}
+#textalign{
+    font-size: 60px;
+    text-align: center;
+}
+.shihab{
+    border: 10px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 0%;
+    display: inline;
+}
